@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, my name is Stanislav
+### I am a Python Backend Developer
 
-<!--
-**Fl1yd/Fl1yd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have extensive experience in developing Telegram bots using aiogram, telethon, and pyrogram. I also create APIs with FastAPI, Flask, and Django. My expertise includes working with databases like SQLite3, PostgreSQL, MySQL, SQLAlchemy, and Tortoise-ORM, and I am proficient in using Git for version control.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:**
+- 🐍 **Languages**: Python
+- 🚀 **Frameworks**: FastAPI, Flask, Django
+- 🤖 **Telegram Bots**: aiogram, telethon, pyrogram
+- 🗄️ **Databases**: SQLite3, PostgreSQL, MySQL
+- ⚙️ **ORM**: SQLAlchemy, Tortoise-ORM
+- 🛠️ **Version Control**: Git
+- 🏗️ **Architecture**: Microservice Architecture
